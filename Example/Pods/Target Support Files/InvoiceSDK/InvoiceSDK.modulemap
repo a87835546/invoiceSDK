@@ -1,0 +1,6 @@
+framework module InvoiceSDK {
+  umbrella header "InvoiceSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

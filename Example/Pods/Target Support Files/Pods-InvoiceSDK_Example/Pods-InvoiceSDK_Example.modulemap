@@ -1,0 +1,6 @@
+framework module Pods_InvoiceSDK_Example {
+  umbrella header "Pods-InvoiceSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
